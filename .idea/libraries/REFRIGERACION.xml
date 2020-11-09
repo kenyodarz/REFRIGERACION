@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="REFRIGERACION">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/REFRIGERACION.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
